@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blush-website/static/css/main.856c183a.css",
+    "main.js": "/blush-website/static/js/main.8db4b05d.js",
+    "index.html": "/blush-website/index.html",
+    "main.856c183a.css.map": "/blush-website/static/css/main.856c183a.css.map",
+    "main.8db4b05d.js.map": "/blush-website/static/js/main.8db4b05d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.856c183a.css",
+    "static/js/main.8db4b05d.js"
+  ]
+}
